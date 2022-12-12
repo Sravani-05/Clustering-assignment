@@ -23,3 +23,20 @@ https://colab.research.google.com/drive/1Pqvh_k9h3oG_tpCUuBWsrb5ZkQBkCzQf?usp=sh
 e) Demonstrate anomaly detection using pyOD using any usecase
 
 https://colab.research.google.com/drive/1P0alV_A9oYdPbE5gDZ_5b11THmFRDo3U?usp=share_link
+
+
+DataSets Used:
+
+Mall_customers csv:
+
+https://drive.google.com/file/d/1jcpIBpNh7zk1sFcDdjd75L0z-wgxWmhj/view?usp=share_link
+
+
+Loan Detail csv:
+
+https://drive.google.com/file/d/1793NIgi-Dzg94clLqTffwQ7Z-C6qnWLd/view?usp=share_link
+
+
+Credit Card csv:
+
+https://drive.google.com/file/d/1uXGhk-N-kmFI2Y9WdbBoALYBSAttn6jY/view?usp=share_link
